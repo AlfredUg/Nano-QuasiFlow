@@ -31,11 +31,17 @@ A version of QuasiFlow for analysing ONT-based HIV-1 drug resistance testing dat
 * Variant calling and generating consensus sequences: `Quasitools`
 * Drug resistance interpretation: `Sierralocal`.
 
+### Report generation
+
+* R package Jsonlite
+* Python packages: Pandas, NumPy
+
 ### Graphical user interface
 
-* Django
-* Pandas
-* NumPy
+* Django, Bootstrap
+
+### Background data processing
+
 * Redis
 * Celery
   
