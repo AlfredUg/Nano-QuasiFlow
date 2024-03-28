@@ -16,6 +16,14 @@ A version of QuasiFlow for analysing ONT-based HIV-1 drug resistance testing dat
 * Mapping reads onto the reference genome: `Minimap2`
 * Variant calling and generating consensus sequences: `Quasitools`
 
+### Graphical user interface
+
+* Django
+* Pandas
+* NumPy
+* Redis
+* Celery
+
 ## Usage
 
 * Upload Long read data in FASTQ format
