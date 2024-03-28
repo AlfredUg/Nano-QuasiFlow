@@ -2,6 +2,13 @@
 
 A version of QuasiFlow for analysing ONT-based HIV-1 drug resistance testing data via a graphical user interface. Currently, Nano-QuasiFlow is being updated to take as input FASTQ files, since ONT machines can be set up to basecall and de-barcode sequence data (this is higly recommended).
 
+
+## Installation
+
+### Native installation
+
+### Docker installation
+
 ## Major tools/libraries
 
 ### Assembly-based analysis
