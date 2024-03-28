@@ -8,13 +8,15 @@ A version of QuasiFlow for analysing ONT-based HIV-1 drug resistance testing dat
 
 * Checking data quality and quality trimming: `nanoq`.
 * De-novo assembled: `flye`.
-* Polishing draft genomes: `medaka` and `pilon`. 
+* Polishing draft genomes: `medaka` and `pilon`.
+* Drug resistance interpretation: `Sierralocal`.
 
 ### Reference-based analysis
 
 * Checking data quality and quality trimming: `nanoq`.
 * Mapping reads onto the reference genome: `Minimap2`
 * Variant calling and generating consensus sequences: `Quasitools`
+* Drug resistance interpretation: `Sierralocal`.
 
 ### Graphical user interface
 
