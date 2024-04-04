@@ -6,7 +6,11 @@ A version of QuasiFlow for analysing ONT-based HIV-1 drug resistance testing dat
 
 ### Native installation
 
+Coming soon
+
 ### Docker installation
+
+Coming soon
 
 ## Usage
 
